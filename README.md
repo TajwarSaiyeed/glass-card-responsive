@@ -1,4 +1,4 @@
-![bg-img]()
+![bg-img](https://github.com/TajwarSaiyeed/glass-card-responsive/blob/main/bg.png)
 
 ```
 Glass-card-responsive
